@@ -1,0 +1,20 @@
+{
+  "name": "curso-testes-automatizados-e-ia-generativa",
+  "version": "1.0.0",
+  "description": "👋 Seja bem-vindo(a)!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-victor/cypressTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas-victor/cypressTest/issues"
+  },
+  "homepage": "https://github.com/lucas-victor/cypressTest#readme"
+}
